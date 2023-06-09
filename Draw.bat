@@ -1,0 +1,1 @@
+GrafLog -x40 -y40 -cColli.col -fColli.drw -e5 -s1
